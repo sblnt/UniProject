@@ -32,7 +32,7 @@ import re
 import tmdbsimple as tmdb
 
 # Set your TMDb API key
-tmdb.API_KEY = '993fd72d65a501e85e21e24beefe4330'   # Replace with your actual API key
+tmdb.API_KEY =   # Replace with your actual API key
 
 
 class TVShowApp(QMainWindow):
